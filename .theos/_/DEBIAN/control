@@ -1,0 +1,11 @@
+Package: com.minazuki.bigbatteryx
+Name: BigBatteryX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Increase the battery mark on iPhone X and later devices.
+Depiction: https://minazukidev.github.io/html/BigBatteryX/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 152
